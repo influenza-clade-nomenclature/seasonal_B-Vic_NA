@@ -4,9 +4,9 @@ parent: B
 representatives: []
 defining_mutations:
 - locus: NA
-  position: 48
+  position: 49
   state: A
 - locus: NA
-  position: 232
+  position: 233
   state: R
 clade: none

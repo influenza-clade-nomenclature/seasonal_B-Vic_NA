@@ -4,12 +4,12 @@ parent: A
 representatives: []
 defining_mutations:
 - locus: NA
-  position: 219
-  state: N
-- locus: NA
-  position: 119
+  position: 120
   state: V
+- locus: NA
+  position: 220
+  state: N
 - locus: nuc
-  position: 423
+  position: 424
   state: T
 clade: none

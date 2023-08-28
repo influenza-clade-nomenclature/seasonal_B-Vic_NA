@@ -4,12 +4,12 @@ parent: A.1.1
 representatives: []
 defining_mutations:
 - locus: NA
-  position: 345
+  position: 346
+  state: E
+- locus: NA
+  position: 378
   state: E
 - locus: nuc
-  position: 482
+  position: 483
   state: T
-- locus: NA
-  position: 377
-  state: E
 clade: none

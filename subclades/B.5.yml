@@ -4,6 +4,6 @@ parent: B
 representatives: []
 defining_mutations:
 - locus: NA
-  position: 314
+  position: 315
   state: K
 clade: none

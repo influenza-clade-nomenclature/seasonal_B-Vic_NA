@@ -1,0 +1,15 @@
+name: A.1.1.1
+unaliased_name: A.1.1.1
+parent: A.1.1
+representatives: []
+defining_mutations:
+- locus: NA
+  position: 345
+  state: E
+- locus: nuc
+  position: 482
+  state: T
+- locus: NA
+  position: 377
+  state: E
+clade: none

@@ -1,0 +1,12 @@
+name: B.1
+unaliased_name: A.1.2.1
+parent: B
+representatives: []
+defining_mutations:
+- locus: NA
+  position: 48
+  state: A
+- locus: NA
+  position: 232
+  state: R
+clade: none

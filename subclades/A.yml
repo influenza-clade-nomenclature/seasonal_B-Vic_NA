@@ -1,0 +1,9 @@
+name: A
+unaliased_name: A
+parent: none
+representatives: []
+defining_mutations:
+- locus: nuc
+  position: 423
+  state: C
+clade: none

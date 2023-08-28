@@ -1,0 +1,15 @@
+name: A.1
+unaliased_name: A.1
+parent: A
+representatives: []
+defining_mutations:
+- locus: NA
+  position: 219
+  state: N
+- locus: NA
+  position: 119
+  state: V
+- locus: nuc
+  position: 423
+  state: T
+clade: none

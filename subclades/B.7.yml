@@ -1,0 +1,9 @@
+name: B.7
+unaliased_name: A.1.2.7
+parent: B
+representatives: []
+defining_mutations:
+- locus: NA
+  position: 377
+  state: E
+clade: none

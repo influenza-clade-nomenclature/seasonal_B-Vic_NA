@@ -1,0 +1,12 @@
+name: B.8
+unaliased_name: A.1.2.8
+parent: B
+representatives: []
+defining_mutations:
+- locus: NA
+  position: 45
+  state: T
+- locus: nuc
+  position: 1488
+  state: A
+clade: none

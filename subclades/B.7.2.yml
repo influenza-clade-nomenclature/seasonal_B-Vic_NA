@@ -1,12 +1,12 @@
-name: B.7.1
-unaliased_name: A.1.2.7.1
+name: B.7.2
+unaliased_name: A.1.2.7.2
 parent: B.7
 representatives: []
 defining_mutations:
 - locus: NA
-  position: 52
-  state: S
+  position: 342
+  state: E
 - locus: NA
-  position: 395
+  position: 303
   state: I
 clade: none

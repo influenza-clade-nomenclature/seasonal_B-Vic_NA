@@ -76,6 +76,21 @@
 
 ## B.7.1
  * parent: [B.7](#B7)
- * defining mutations or substitutions: NA:52S, NA:395i
+ * defining mutations or substitutions: NA:52S, NA:395I
  * [View in Nextstrain](https://nextstrain.org/flu/seasonal/vic/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:B.7.1)
+
+## B.7.2
+ * parent: [B.7](#B7)
+ * defining mutations or substitutions: NA:342E, NA:303I
+ * [View in Nextstrain](https://nextstrain.org/flu/seasonal/vic/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:B.7.2)
+
+## B.7.3
+ * parent: [B.7](#B7)
+ * defining mutations or substitutions: NA:47V, NA:303I
+ * [View in Nextstrain](https://nextstrain.org/flu/seasonal/vic/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:B.7.3)
+
+## B.8
+ * parent: [B](#B)
+ * defining mutations or substitutions: NA:45T, nuc:1488A
+ * [View in Nextstrain](https://nextstrain.org/flu/seasonal/vic/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:B.8)
 

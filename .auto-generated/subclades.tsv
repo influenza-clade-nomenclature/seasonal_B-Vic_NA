@@ -47,4 +47,13 @@ B.7	clade	B
 B.7	NA	378	E
 B.7.1	clade	B.7	
 B.7.1	NA	52	S
-B.7.1	NA	395	i
+B.7.1	NA	395	I
+B.7.2	clade	B.7	
+B.7.2	NA	342	E
+B.7.2	NA	303	I
+B.7.3	clade	B.7	
+B.7.3	NA	47	V
+B.7.3	NA	303	I
+B.8	clade	B	
+B.8	NA	45	T
+B.8	nuc	1488	A

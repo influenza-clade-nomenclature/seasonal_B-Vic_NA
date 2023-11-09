@@ -91,6 +91,6 @@
 
 ## B.8
  * parent: [B](#B)
- * defining mutations or substitutions: NA:45T, nuc:1488A
+ * defining mutations or substitutions: NA:45T, nuc:975G
  * [View in Nextstrain](https://nextstrain.org/flu/seasonal/vic/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:B.8)
 

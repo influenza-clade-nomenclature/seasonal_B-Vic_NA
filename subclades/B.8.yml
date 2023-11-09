@@ -7,6 +7,6 @@ defining_mutations:
   position: 45
   state: T
 - locus: nuc
-  position: 1488
-  state: A
+  position: 975
+  state: G
 clade: none

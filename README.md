@@ -48,7 +48,7 @@ Parameters and mutation weights for the automated subclade suggestion algorithm 
 After adding new clades, run the following commands to update the files generated from the individual yamls.
 ```
 # generate the markdown summary of the clade definitions
-python ../helper-scripts/generate_markdown_summary.py --input-dir subclades --lineage h1n1pdm --segment na
+python ../helper-scripts/generate_markdown_summary.py --input-dir subclades --lineage vic --segment na
 
 # generate the tsv file with clade-defining info that can be used to annotate clades in augur
 python ../helper-scripts/construct_tsv.py --input-dir subclades --output-tsv .auto-generated/subclades.tsv

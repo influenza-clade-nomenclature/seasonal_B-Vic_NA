@@ -89,11 +89,6 @@
  * defining mutations or substitutions: NA:47V, nuc:924C
  * [View on Nextstrain](https://nextstrain.org/flu/seasonal/vic/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:B.7.3)
 
-## B.7.4
- * parent: [B.7](#B7)
- * defining mutations or substitutions: NA:395I, nuc:459T
- * [View on Nextstrain](https://nextstrain.org/flu/seasonal/vic/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:B.7.4)
-
 ## B.8
  * parent: [B](#B)
  * defining mutations or substitutions: NA:45T, nuc:975G

@@ -6,7 +6,7 @@ defining_mutations:
 - locus: NA
   position: 342
   state: E
-- locus: NA
-  position: 303
-  state: I
+- locus: nuc
+  position: 924
+  state: C
 clade: none

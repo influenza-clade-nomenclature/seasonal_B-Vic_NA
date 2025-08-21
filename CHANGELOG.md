@@ -1,3 +1,7 @@
+# 2025-08-21
+
+ - fix definition of the A.1.1.4 subclade (that was erroneously called A.1.2 which is aliased as B)
+
 # 2024-04-14
 
  - revision of definitions of B.7.2 and B.7.3

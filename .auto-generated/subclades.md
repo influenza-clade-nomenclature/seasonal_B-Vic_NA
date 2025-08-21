@@ -29,10 +29,10 @@
  * defining mutations or substitutions: NA:283G, nuc:390A
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/vic/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:A.1.1.3)
 
-## A.1.2
- * parent: [A.1](#A1)
+## A.1.1.4
+ * parent: [A.1.1](#A11)
  * defining mutations or substitutions: NA:53N, NA:59S, NA:233E
- * [View on Nextstrain](https://nextstrain.org/seasonal-flu/vic/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:A.1.2)
+ * [View on Nextstrain](https://nextstrain.org/seasonal-flu/vic/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:A.1.1.4)
 
 ## B
  * parent: [A.1](#A1)

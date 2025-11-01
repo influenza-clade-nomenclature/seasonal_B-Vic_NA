@@ -35,6 +35,7 @@
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/vic/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:A.1.1.4)
 
 ## B
+ * alias of: A.1.2
  * parent: [A.1](#A1)
  * defining mutations or substitutions: NA:42Q, NA:71A, NA:395V, nuc:155A
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/vic/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:B)

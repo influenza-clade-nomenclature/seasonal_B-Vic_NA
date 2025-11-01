@@ -1,3 +1,6 @@
+# 2025-11-01
+- add aliases to ymls
+
 # 2025-08-21
 
  - fix definition of the A.1.1.4 subclade (that was erroneously called A.1.2 which is aliased as B)

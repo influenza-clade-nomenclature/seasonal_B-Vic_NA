@@ -51,7 +51,7 @@ After adding new clades, run the following commands to update the files generate
 python ../helper-scripts/generate_markdown_summary.py --input-dir subclades --lineage vic --segment na
 
 # generate the tsv file with clade-defining info that can be used to annotate clades in augur
-python ../helper-scripts/construct_tsv.py --input-dir subclades subclade-proposals --output-tsv .auto-generated/subclade-proposals.tsv --output-alias-tsv .auto-generated/subclade-summary.tsv
+python ../helper-scripts/construct_tsv.py --input-dir subclades subclade-proposals --output-tsv .auto-generated/subclade-proposals.tsv --output-alias-tsv .auto-generated/subclade-summary.tsv --output-newick  .auto-generated/subclade.nwk
 
 
 # generate the tsv file with clade-defining info that can be used to annotate clades in augur
@@ -59,7 +59,7 @@ python ../helper-scripts/construct_tsv.py --input-dir subclades --output-tsv .au
 
 # To add the result to the repo, do:
 
-git add .auto-generated/subclades.tsv .auto-generated/subclade-proposals.tsv .auto-generated/subclades.md .auto-generated/subclade-summary.tsv
+git add .auto-generated/subclades.tsv .auto-generated/subclade-proposals.tsv .auto-generated/subclades.md .auto-generated/subclade-summary.tsv .auto-generated/subclade.nwk
 git commit -m "update auto-generated files"
 ```
 

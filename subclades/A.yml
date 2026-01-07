@@ -6,4 +6,13 @@ defining_mutations:
 - locus: nuc
   position: 424
   state: C
+- locus: NA
+  position: 320
+  state: D
+- locus: NA
+  position: 396
+  state: F
+- locus: NA
+  position: 404
+  state: K
 clade: none

@@ -1,7 +1,7 @@
 # Summary of designated subclades
 ## A
  * parent: [none](#none)
- * defining mutations or substitutions: nuc:424C
+ * defining mutations or substitutions: nuc:424C, NA:320D, NA:396F, NA:404K
  * [View on Nextstrain](https://nextstrain.org/seasonal-flu/vic/na/6y?branchLabel=Subclade&c=subclade&label=Subclade:A)
 
 ## A.1
